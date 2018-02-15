@@ -1,0 +1,5 @@
+C:\Users\mario\Desktop\ProyectoFacil\Intermedio\bin\Debug\Intermedio.exe.config
+C:\Users\mario\Desktop\ProyectoFacil\Intermedio\bin\Debug\Intermedio.exe
+C:\Users\mario\Desktop\ProyectoFacil\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\mario\Desktop\ProyectoFacil\Intermedio\obj\Debug\Intermedio.exe
+C:\Users\mario\Desktop\ProyectoFacil\Intermedio\obj\Debug\Intermedio.pdb
